@@ -672,7 +672,7 @@ void get_default_lift_pos(int* ret) {
 		*(ret+i) = i * n;
 	}
 }
-
+ 
 void get_floor_name(int floor, char* floor_name) {
 	
 	char fi[7] = "";
