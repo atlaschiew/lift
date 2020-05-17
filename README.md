@@ -9,3 +9,6 @@ gcc -o executable main.c -lncurses -lpthread
 #execute
 ./executable
 ```
+
+How to use? follow the instruction on screen.
+<img src="https://github.madxradicle.com/lift/howto.png">
