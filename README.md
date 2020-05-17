@@ -18,4 +18,4 @@ To use it, please follow instruction on screen.
 ## My First C Program
 It is kinda boring to learn C. so i decided to give myself a fun task so here born the lift program.
 
-Lastly, i will always welcome C expert to provde me any type of opinion to boost my C skills. thank you.
+Lastly, i am always welcome C expert to provide me any type of opinion to boost my C skills. thank you.
