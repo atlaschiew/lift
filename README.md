@@ -1,6 +1,6 @@
 # lift
 A simple lift program written in C
-
+<hr/>
 Compile & Execute
 ```sh
 #compile with ncurses and pthread library
