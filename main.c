@@ -40,8 +40,6 @@ struct lift {
 	int wait_out;
 	int wait_out_tickets[1000];
 	int oc_count;
-	int targets[FLOORS];
-	
 };
 
 struct floor {
@@ -295,8 +293,6 @@ void *run_lift(void* ptr)
 		}
 		wrefresh(BOARD[i]);
     }
-	
-	sleep(1);//rest 1 second
 	
 	question_clear();
 	i=0,j=0,k=0,l=0,m=0;
