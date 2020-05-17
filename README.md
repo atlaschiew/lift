@@ -1,5 +1,5 @@
 # lift
-A simple lift program written in C
+A simple lift program written in C.
 
 Compile & Execute
 ```sh
@@ -15,4 +15,7 @@ To use it, please follow instruction on screen.
 <img src="https://github.madxradicle.com/lift/howto.png">
 </p>
 
-## About The Project
+## My First C Program
+It is kinda boring to learn C. so i decided to give myself a fun task so here born the lift program.
+
+Lastly, i will always welcome C expert to provde me any type of opinion to boost my C skills. thank you.
